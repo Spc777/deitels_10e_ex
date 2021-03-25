@@ -1,3 +1,7 @@
+//Deitels C++ 10th edition exercises
+//Pavel Kondratev
+//Exercise 2.18
+
 #include <iostream>
 
 using namespace std;
