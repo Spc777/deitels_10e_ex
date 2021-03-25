@@ -1,6 +1,6 @@
 //Deitels C++ 10th edition exercises
 //Pavel Kondratev
-//Exercise 2.19
+//Exercise 2.20
 #include <iostream>
 
 using namespace std;
