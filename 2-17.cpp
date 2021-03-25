@@ -1,6 +1,6 @@
 //Deitels C++ 10th edition exercises
 //Pavel Kondratev
-//Exercise 2.18
+//Exercise 2.17
 
 #include <iostream>
 
